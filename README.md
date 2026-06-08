@@ -47,6 +47,33 @@ The project demonstrates complete frontend-backend integration with REST API com
 
 ---
 
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/darkmode.png)
+
+### Task Progress Tracking
+
+![Task Progress](screenshots/progress.png)
+
+### Completed Tasks
+
+![Completed Tasks](screenshots/completed.png)
+
+### Database Records
+
+![Database Records](screenshots/database.png)
+
+
+---
+
+
 # Project Architecture
 
 ```
